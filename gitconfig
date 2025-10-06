@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sixthsenseunlocked@gmail.com
+	name = Yash Ramteke
